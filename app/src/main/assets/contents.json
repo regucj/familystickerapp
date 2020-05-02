@@ -1,0 +1,60 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "2",
+      "name": "Family Stickers",
+      "publisher": "Full Meals Designer",
+      "tray_image_file": "park.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"regucj@gmail.com",
+      "publisher_website": "https://fullmealsdesigner.myportfolio.com/",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "bowbow.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "letsplay.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "Loveu.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "muaahh.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "ohno.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "park.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "playstation.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "rain.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "stayhome.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "walking.webp",
+          "emojis": ["🤔","😐"]
+        }
+      ]
+    }
+  ]
+}
