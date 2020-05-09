@@ -10,8 +10,11 @@ android {
         applicationId "com.fullmealsdesigner.familysticker"
         minSdkVersion 23
         targetSdkVersion 29
-        versionCode 1
-        versionName "1.0"
+        apply plugin: 'com.android.application'
+/*
+        versionCode 15.0
+*/
+        versionName "15.1"
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         def contentProviderAuthority = applicationId + ".stickercontentprovider"
         // Creates a placeholder property to use in the manifest.
